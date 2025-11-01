@@ -121,7 +121,7 @@ python Scripts/main.py
 The scraper connects to MongoDB using PyMongo.  
 Each record contains structured time-series data by country, indicator, and year.  
 
-![Mongo Compass Screenshot]()
+![Mongo Compass Screenshot](images/image.png)
 
 
 To verify the data insertion:  
